@@ -9,7 +9,7 @@ Crowdsourced Bathymetry Database.
 The output is a shapefile.
 
 
-@author: Anthony
+@author: Anthony Klemm
 """
 
 
