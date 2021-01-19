@@ -2,10 +2,11 @@
 """
 Created on Mon Dec 28 13:57:44 2020
 
-This script automates the tide correction of crowdsourced bathymetry (CSB) files (in JSON format)
+This script automates the conversion geojson files to shapefile, specifically for crowdsourced bathymetry (CSB) files (in JSON format)
 downloaded from the Internation Hydrographic Organization's (IHO) Data Centre for Digital Bathymetry 
 Crowdsourced Bathymetry Database. 
 
+CSB data can be downloaded from this website: https://maps.ngdc.noaa.gov/viewers/iho_dcdb/
 The output is a shapefile.
 
 
